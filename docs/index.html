@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Drowsy Classics Catalog</title>
+    <style>
+      :root {
+        color-scheme: dark;
+      }
+
+      body {
+        margin: 0;
+        font-family: Georgia, serif;
+        background: #0e141c;
+        color: #f8f3eb;
+        display: grid;
+        min-height: 100vh;
+        place-items: center;
+      }
+
+      main {
+        max-width: 720px;
+        padding: 40px 24px;
+        text-align: center;
+      }
+
+      h1 {
+        margin: 0 0 16px;
+        font-size: 48px;
+        line-height: 1.1;
+      }
+
+      p {
+        margin: 0 0 12px;
+        font: 16px/1.6 "Avenir Next", Arial, sans-serif;
+        color: #c9c0b2;
+      }
+
+      a {
+        color: #78d1c7;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Drowsy Classics Catalog</h1>
+      <p>Static catalog host for the Drowsy Classics mobile app.</p>
+      <p>
+        Current feed:
+        <a href="./catalog/v1/books.json">catalog/v1/books.json</a>
+      </p>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,295 @@
+{
+  "books": [
+    {
+      "id": "secret-garden",
+      "workId": "work-secret-garden",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "writtenYear": "1911",
+      "narratorName": "Elizabeth Grace",
+      "narratorLabel": "Narrator",
+      "readingPace": "quick",
+      "accessTier": "free",
+      "visibility": "listed",
+      "allowedRegions": ["US"],
+      "accentLabel": "Tonight's listen",
+      "shortIntro": "A gentle first-night classic with soft movement, familiar language, and a warm sense of discovery.",
+      "detailBody": "For bedtime listening, this title works best when it feels approachable instead of endless. The language is familiar, the emotional motion stays soft, and the opening chapters are forgiving if a listener drifts off before the end.",
+      "sampleNote": "Remote catalog v1 sample.",
+      "structure": {
+        "partLabel": "Night"
+      },
+      "bedtime": {
+        "categoryLabel": "One Night",
+        "shelfLabel": "Best for tonight",
+        "listeningStyleLabel": "Easy to Follow",
+        "supportLine": "A calming first-night classic when you want something familiar and low pressure."
+      },
+      "artwork": {
+        "background": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/secret-garden/background.png"
+        },
+        "midground": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/secret-garden/midground.png"
+        },
+        "foreground": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/secret-garden/foreground.png"
+        }
+      },
+      "parts": [
+        {
+          "id": "secret-garden-arrival",
+          "title": "Night 1: Arrival at Misselthwaite",
+          "estimatedDurationSeconds": 540,
+          "synopsis": "Mary Lennox arrives at Misselthwaite Manor, where the first hints of quiet change begin to stir around her.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/secret-garden/audio/night-1-arrival.m4a"
+          }
+        },
+        {
+          "id": "secret-garden-locked-door",
+          "title": "Night 2: The Locked Door",
+          "estimatedDurationSeconds": 660,
+          "synopsis": "Mary grows more curious about the house and the rumors of a hidden place sealed away from sight.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/secret-garden/audio/night-2-locked-door.m4a"
+          }
+        },
+        {
+          "id": "secret-garden-robin",
+          "title": "Night 3: The Robin Leads the Way",
+          "estimatedDurationSeconds": 720,
+          "synopsis": "A small robin begins to pull Mary out of herself, nudging her closer to the garden's mystery.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/secret-garden/audio/night-3-robin.m4a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wind-in-the-willows",
+      "workId": "work-wind-in-the-willows",
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "writtenYear": "1908",
+      "narratorName": "Thomas Avery",
+      "narratorLabel": "Narrator",
+      "readingPace": "quick",
+      "accessTier": "premium",
+      "visibility": "listed",
+      "allowedRegions": ["US"],
+      "accentLabel": "Easy to drift into",
+      "shortIntro": "Soft river scenes and easy companionship keep the mood settled from beginning to end.",
+      "detailBody": "This is a strong bedtime listen when you want atmosphere more than momentum. The pleasure comes from returning to familiar company and letting the scenes move at a patient pace.",
+      "sampleNote": "Remote catalog v1 sample.",
+      "structure": {
+        "partLabel": "Night"
+      },
+      "bedtime": {
+        "categoryLabel": "One Night",
+        "shelfLabel": "Easy to drift off to",
+        "listeningStyleLabel": "Low plot",
+        "supportLine": "A low-pressure listen for nights when you want texture, companionship, and almost no urgency."
+      },
+      "artwork": {
+        "background": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/wind-in-the-willows/background.png"
+        },
+        "midground": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/wind-in-the-willows/midground.png"
+        },
+        "foreground": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/wind-in-the-willows/foreground.png"
+        }
+      },
+      "parts": [
+        {
+          "id": "wind-river-bank",
+          "title": "Night 1: The River Bank",
+          "estimatedDurationSeconds": 540,
+          "synopsis": "Mole leaves his spring cleaning behind and discovers the softer rhythms of the river with Rat.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/wind-in-the-willows/audio/night-1-river-bank.m4a"
+          }
+        },
+        {
+          "id": "wind-open-road",
+          "title": "Night 2: The Open Road",
+          "estimatedDurationSeconds": 660,
+          "synopsis": "The world grows slightly wider, but the voice stays unhurried and companionable.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/wind-in-the-willows/audio/night-2-open-road.m4a"
+          }
+        },
+        {
+          "id": "wind-piper-gates",
+          "title": "Night 3: The Piper at the Gates",
+          "estimatedDurationSeconds": 720,
+          "synopsis": "The most dreamlike section of the book, shaped for a quieter descent into sleep.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/wind-in-the-willows/audio/night-3-piper-gates.m4a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "heidi",
+      "workId": "work-heidi",
+      "title": "Heidi",
+      "author": "Johanna Spyri",
+      "writtenYear": "1881",
+      "narratorName": "Anna Clare",
+      "narratorLabel": "Narrator",
+      "readingPace": "multi_night",
+      "accessTier": "free",
+      "visibility": "listed",
+      "allowedRegions": ["US"],
+      "accentLabel": "A story for a few nights",
+      "shortIntro": "A warm mountain story with clear nightly stopping points and a gentle return to familiar scenes.",
+      "detailBody": "Heidi fits the multi-night promise well because the world is easy to re-enter and each section can stop on a calm breath. It gives continuity without turning bedtime into homework.",
+      "sampleNote": "Remote catalog v1 sample.",
+      "structure": {
+        "partLabel": "Night"
+      },
+      "bedtime": {
+        "categoryLabel": "3-5 Nights",
+        "shelfLabel": "A few nights long",
+        "listeningStyleLabel": "Soft recap",
+        "supportLine": "A reassuring multi-night listen with enough continuity to feel rewarding and enough repetition to feel safe."
+      },
+      "artwork": {
+        "background": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/heidi/background.png"
+        },
+        "midground": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/heidi/midground.png"
+        },
+        "foreground": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/heidi/foreground.png"
+        }
+      },
+      "parts": [
+        {
+          "id": "heidi-mountain",
+          "title": "Night 1: Up the Mountain",
+          "estimatedDurationSeconds": 600,
+          "synopsis": "Heidi arrives in the mountains, where the first emotional notes are simple, open-air, and calm.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/heidi/audio/night-1-up-the-mountain.m4a"
+          }
+        },
+        {
+          "id": "heidi-grandfather",
+          "title": "Night 2: Grandfather's Hut",
+          "estimatedDurationSeconds": 720,
+          "synopsis": "The rhythms of mountain life settle in, building familiarity rather than tension.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/heidi/audio/night-2-grandfathers-hut.m4a"
+          }
+        },
+        {
+          "id": "heidi-pasture",
+          "title": "Night 3: Pastures and Goat Bells",
+          "estimatedDurationSeconds": 660,
+          "synopsis": "The story deepens through repetition and place, which makes it easy to return to on the next night.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/heidi/audio/night-3-pastures-and-goat-bells.m4a"
+          }
+        },
+        {
+          "id": "heidi-frankfurt",
+          "title": "Night 4: A New City",
+          "estimatedDurationSeconds": 780,
+          "synopsis": "The setting changes, but the adaptation keeps the transitions gentle and easy to follow.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/heidi/audio/night-4-a-new-city.m4a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jane-eyre",
+      "workId": "work-jane-eyre",
+      "title": "Jane Eyre",
+      "author": "Charlotte Bronte",
+      "writtenYear": "1847",
+      "narratorName": "Rachel Fenwick",
+      "narratorLabel": "Narrator",
+      "readingPace": "long_form",
+      "accessTier": "premium",
+      "visibility": "listed",
+      "allowedRegions": ["US"],
+      "accentLabel": "A longer book to settle into",
+      "shortIntro": "A fuller classic experience broken into bedtime-sized portions so it feels steady rather than endless.",
+      "detailBody": "The long-form mode matters here: the adaptation gives Jane Eyre enough room to breathe while still shaping each night around a clean stopping point and a low-friction return path.",
+      "sampleNote": "Remote catalog v1 sample.",
+      "structure": {
+        "partLabel": "Night"
+      },
+      "bedtime": {
+        "categoryLabel": "Long Read",
+        "shelfLabel": "Longer classic",
+        "listeningStyleLabel": "Nightly recap",
+        "supportLine": "A slow-burn classic for listeners who want continuity, atmosphere, and a dependable way back in each night."
+      },
+      "artwork": {
+        "background": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/jane-eyre/background.png"
+        },
+        "midground": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/jane-eyre/midground.png"
+        },
+        "foreground": {
+          "url": "https://soyster.github.io/drowsy-classics-catalog/media/jane-eyre/foreground.png"
+        }
+      },
+      "parts": [
+        {
+          "id": "jane-gateshead",
+          "title": "Night 1: Gateshead",
+          "estimatedDurationSeconds": 720,
+          "synopsis": "Jane's early world is established with enough clarity to support a longer reading relationship.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/jane-eyre/audio/night-1-gateshead.m4a"
+          }
+        },
+        {
+          "id": "jane-lowood",
+          "title": "Night 2: Lowood",
+          "estimatedDurationSeconds": 780,
+          "synopsis": "The adaptation softens the harsher edges while preserving the emotional shape of Jane's growth.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/jane-eyre/audio/night-2-lowood.m4a"
+          }
+        },
+        {
+          "id": "jane-thornfield",
+          "title": "Night 3: Thornfield Hall",
+          "estimatedDurationSeconds": 840,
+          "synopsis": "The story widens into a house and atmosphere you can return to over many nights.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/jane-eyre/audio/night-3-thornfield-hall.m4a"
+          }
+        },
+        {
+          "id": "jane-mystery",
+          "title": "Night 4: Questions in the Hall",
+          "estimatedDurationSeconds": 900,
+          "synopsis": "Curiosity is present, but the pacing remains measured so it still works close to sleep.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/jane-eyre/audio/night-4-questions-in-the-hall.m4a"
+          }
+        },
+        {
+          "id": "jane-choice",
+          "title": "Night 5: What Jane Keeps",
+          "estimatedDurationSeconds": 840,
+          "synopsis": "The arc resolves with enough emotional closure to make the book feel completed rather than abandoned.",
+          "audio": {
+            "url": "https://soyster.github.io/drowsy-classics-catalog/media/jane-eyre/audio/night-5-what-jane-keeps.m4a"
+          }
+        }
+      ]
+    }
+  ]
+}
